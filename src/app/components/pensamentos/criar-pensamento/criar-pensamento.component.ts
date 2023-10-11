@@ -19,6 +19,6 @@ export class CriarPensamentoComponent {
   }
 
   cancelar() {
-    alert("Ação cancelada!!")
+    // alert("Ação cancelada!!")
   }
 }
